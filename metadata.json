@@ -1,0 +1,16 @@
+{
+    "name": "Rediu Token",
+    "symbol": "REDIU",
+    "description": "This is my first token on Solana!",
+    "image": "https://github.com/usrb1n/mytestcoin/blob/main/logo.png",
+    "external_url": "https://github.com/usrb1n/mytestcoin",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://github.com/usrb1n/mytestcoin/blob/main/logo.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
